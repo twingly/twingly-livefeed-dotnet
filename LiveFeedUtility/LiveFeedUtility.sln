@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LiveFeedUtility", "LiveFeedUtility.csproj", "{0397D41D-8B5D-453B-96D4-F71B825F66F5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0397D41D-8B5D-453B-96D4-F71B825F66F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0397D41D-8B5D-453B-96D4-F71B825F66F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0397D41D-8B5D-453B-96D4-F71B825F66F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0397D41D-8B5D-453B-96D4-F71B825F66F5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

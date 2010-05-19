@@ -1,0 +1,5 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <StartArguments>"23D111DD-BF52-4734-BD25-46AA3E395B7A" "2010-04-24 00:00:00Z" "2010-04-25 00:00:00Z"</StartArguments>
+  </PropertyGroup>
+</Project>
